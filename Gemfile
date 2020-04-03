@@ -14,6 +14,7 @@ source "https://rubygems.org"
 gem "minimal-mistakes-jekyll"
 gem "jemoji"
 gem 'github-pages'
+gem "bundler"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
