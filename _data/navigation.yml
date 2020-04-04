@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "CLAIRE"
+  - title: "CLAIRE homepage"
     url: https://claire-ai.org/
-  - title: "Initiatives against COVID19"
-    url: https://covid19.claire-ai.org#initiatives
-  - title: "News"
+  - title: "AI against COVID19"
+    url: /initiatives/
+  - title: "news"
     url:  news
   - title: "contact"
     url: mailto://covid19@claire-ai.org
