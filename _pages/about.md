@@ -48,6 +48,6 @@ Contact email for all: <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.
 
 * **Emanuela Girardi (co-Leader)**, Member of High-Level Expert Group on AI of the Italian Ministry of Economic Development, AIxiA, Pop AI.  
 
-* **Prof. Holger Hoos**, Universiteit Leiden, The Netherlands. Web:[ada.liacs.nl/hh](http://ada.liacs.nl/hh)
+* **Prof. Holger Hoos**, Universiteit Leiden, The Netherlands. [Web](http://ada.liacs.nl/hh)
 
 * **Iarla Kilbane-Dawe**, Parliament Hill Research Ltd, UK.
