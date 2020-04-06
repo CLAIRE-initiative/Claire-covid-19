@@ -6,9 +6,9 @@ main:
     url: /initiatives/
   - title: "CLAIRE efforts"
     url: /claire-news/
-  - title: "news"
+  - title: "News"
     url:  news
-  - title: "about us"
+  - title: "About us"
     url: /about/
   #- title: "Sitemap"
   #  url: /sitemap/

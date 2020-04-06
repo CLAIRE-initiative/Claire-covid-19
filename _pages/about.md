@@ -38,16 +38,16 @@ author_profile: false
 
 Contact email for all: <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.org</a>
 
-* **Tonio Ball**, Head of Neuromedical AI Lab Freiburg
+* **PD, Dr Tonio Ball**, Head of Neuromedical AI Lab Freiburg. [Web](https://www.tnt.uni-freiburg.de/)
 
-* **Gianluca Bontempi**, CLAIRE Belgium (French community) NCP, Université Libre de Bruxelles, Computer Science Dept, Machine Learning Group, mlg.ulb.ac.be
+* **Prof. Gianluca Bontempi (co-Leader)**, CLAIRE Belgium (French community) NCP, Université Libre de Bruxelles, Computer Science Dept, Machine Learning Group. [Web](http://mlg.ulb.ac.be)
 
 * **Hans De Canck**, CLAIRE Belgium, Vrije Universiteit Brussel, AI Experience Center / AI for the Common Good initiative.
 
-* **Ricardo Chavarriaga**, CLAIRE office Switzerland, Zurich University of Applied Sciences (ZHAW), Geneva Center for Security Policy (GCSP), IEEE Brain Initiative
+* **Ricardo Chavarriaga, PhD**, CLAIRE office Switzerland, Zurich University of Applied Sciences (ZHAW), Geneva Center for Security Policy (GCSP), IEEE Brain Initiative. [Web](http://ricardo.chavarriaga.me)
 
-* **Emanuela Girardi**, Member of High-Level Expert Group on AI of the Italian Ministry of Economic Development, AIxiA, Pop AI.  
+* **Emanuela Girardi (co-Leader)**, Member of High-Level Expert Group on AI of the Italian Ministry of Economic Development, AIxiA, Pop AI.  
 
-* **Holger Hoos**, Universiteit Leiden, The Netherlands. 
+* **Prof. Holger Hoos**, Universiteit Leiden, The Netherlands. Web:[ada.liacs.nl/hh](http://ada.liacs.nl/hh)
 
 * **Iarla Kilbane-Dawe**, Parliament Hill Research Ltd, UK.

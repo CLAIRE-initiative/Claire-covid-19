@@ -1,6 +1,6 @@
 ---
 permalink: /initiatives/
-title: "CLAIRE Taskforce on COVID19 - About us"
+title: "CLAIRE Taskforce on COVID19"
 layout: splash
 header:
   overlay_image: /assets/images/fusion-medical-animation-EAgGqOiDDMg-unsplash_flipped.jpg
