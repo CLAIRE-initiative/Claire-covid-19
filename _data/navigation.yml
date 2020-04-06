@@ -4,11 +4,11 @@ main:
 #    url: https://claire-ai.org/
   - title: "AI Initiatives against COVID19"
     url: /initiatives/
+  - title: "CLAIRE efforts"
+    url: /claire-news/
   - title: "news"
     url:  news
-  - title: "media"
-    url: /media-ai-against-covid19/
-  - title: "contact"
-    url: mailto://covid19@claire-ai.org
+  - title: "about us"
+    url: /about/
   #- title: "Sitemap"
   #  url: /sitemap/
