@@ -5,6 +5,8 @@ tags:
   - covid19
   - EPFL
   - computing resources
+  - AI
+  - Switzerland
 ---
 
 # The Blue Brain Project: technology and expertise available to fight COVID-19

@@ -5,6 +5,7 @@ tags:
   - claire
   - covid19
   - 3Dprinting
+  - Czech
 ---
 
 # Czech Institute of Informatics, Robotics and Cybernetics develops 3D printed protective half-mask (Free license)
