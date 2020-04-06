@@ -13,7 +13,7 @@ author_profile: false
 
 <p align="center"><iframe title="Covid-19 Initiatives" aria-label="World Symbol map" src="//datawrapper.dwcdn.net/MGVbG/4/" scrolling="no" frameborder="0" style="border: none;" width="1000" height="400"></iframe></p>
 
-<p align="center">CLAIRE is collecting information about multiple initiatives undertaken by the AI community to support the fight against COVID19. <a href="/claire-news/">We are also actively interacting with some of them to support institutions in their efforts</a>. For more information, see the <a href="https://claire.zulipchat.com/#narrow/stream/226112-covid-19">CLAIRE Zulip stream</a> on COVID19 (for CLAIRE supporters only, <a href="https://claire-ai.org/href=%22https://claire-ai.org/#share-and-sign">you can sign up here</a>) or contact <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.org</a>.</p>
+<p align="center">CLAIRE is collecting information about multiple initiatives undertaken by the AI community to support the fight against COVID19. <a href="/claire-news/">We are also actively interacting with some of them to support institutions in their efforts</a>. For more information, see the <a href="https://claire.zulipchat.com/#narrow/stream/226112-covid-19">CLAIRE Zulip stream</a> on COVID19 (for CLAIRE supporters only, <a href="https://claire-ai.org/#share-and-sign">you can sign up here</a>) or contact <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.org</a>.</p>
 
 
 <p align="center"><b>If you know about any other initiative not listed here, please let us know by filling this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqLhThmq52C3pwXosMqx6Rs2dGLoeLR3zDjGicsrHiby6wog/viewform">form</a>.</b></p>

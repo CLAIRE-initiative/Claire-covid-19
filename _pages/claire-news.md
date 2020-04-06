@@ -13,4 +13,4 @@ author_profile: false
 
 <p align="center"><b>Read below how the CLAIRE members are active in supporting the fight against COVID19</b></p> 
 
-<p align="center">For more information, see the <a href="https://claire.zulipchat.com/#narrow/stream/226112-covid-19">CLAIRE Zulip stream</a> on COVID19 (for CLAIRE supporters only, <a href="https://claire-ai.org/href=%22https://claire-ai.org/#share-and-sign">you can sign up here</a>) or contact <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.org</a>.</p>
+<p align="center">For more information, see the <a href="https://claire.zulipchat.com/#narrow/stream/226112-covid-19">CLAIRE Zulip stream</a> on COVID19 (for CLAIRE supporters only, <a href="https://claire-ai.org/#share-and-sign">you can sign up here</a>) or contact <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.org</a>.</p>
