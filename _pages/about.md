@@ -51,3 +51,30 @@ Contact email for all: <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.
 * **Prof. Holger Hoos**, Universiteit Leiden, The Netherlands. [Web](http://ada.liacs.nl/hh)
 
 * **Iarla Kilbane-Dawe**, Parliament Hill Research Ltd, UK.
+
+<hr>
+# Topic coordinators
+
+<!--* **T0: Coordination, public relations, raise awareness, contacts**-->
+* **T1: Intensive care data analysis:** Tonio Ball, Head of Neuromedical AI Lab Freiburg, Germany 
+[Web](https://www.tnt.uni-freiburg.de/)
+
+* **T2: Epidemiological data analysis:** Ann Nowe, Prof. Ann Nowé, AI  Lab, Vrije Universiteit Brussel, Belgium [Web](https://ai.vub.ac.be/team/ann-nowe/)
+
+* **T3: Mobility and monitoring data analysis:** Jose Sousa, Faculty of Medicine, Health and Life Sciences
+
+* **T4: Bioinformatics (protein and molecular data analysis)**, Davide Bacciu, Computational Intelligence and Machine Learning Group, Universita' di Pisa, Italy [Web](http://www.di.unipi.it/~bacciu)
+
+* **T5: NLP (literature analysis+chatbots)**, TBD
+
+* **T6: E-health**, TBD
+
+* **T7: Image analysis (CT scans)**, Marco Aldinucci, Computer Science Dept, University of  Torino, Italy. [Web](http://alpha.di.unito.it/marco-aldinucci/)
+
+* **T8: Social network monitoring (fake news)**, TBD
+
+* **T9: Smart manufacturing (3D printing)**, TBD
+
+* **T10: Robotics**, Alessandro Saffiotti, AASS Cognitive Robotic Systems Lab, School of Science and Technology, Orebro University, Sweden
+
+* **T11: Scheduling and resource management**,Marco Maratea, Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi. University Genova, Italy. [Web](http://www.star.dist.unige.it/~marco/)
