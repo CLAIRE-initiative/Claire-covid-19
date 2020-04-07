@@ -61,7 +61,7 @@ Contact email for all: <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.
 
 * **T2: Epidemiological data analysis:** Ann Nowe, Prof. Ann Nowé, AI  Lab, Vrije Universiteit Brussel, Belgium [Web](https://ai.vub.ac.be/team/ann-nowe/)
 
-* **T3: Mobility and monitoring data analysis:** Jose Sousa, Faculty of Medicine, Health and Life Sciences
+* **T3: Mobility and monitoring data analysis:** Jose Sousa, Faculty of Medicine, Health and Life Sciences, Queen’s University Belfast [Web](http://www.qub.ac.uk/sites/core-technology-units/AdvancedInformatics/)
 
 * **T4: Bioinformatics (protein and molecular data analysis)**, Davide Bacciu, Computational Intelligence and Machine Learning Group, Universita' di Pisa, Italy [Web](http://www.di.unipi.it/~bacciu)
 
@@ -75,6 +75,6 @@ Contact email for all: <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.
 
 * **T9: Smart manufacturing (3D printing)**, TBD
 
-* **T10: Robotics**, Alessandro Saffiotti, AASS Cognitive Robotic Systems Lab, School of Science and Technology, Orebro University, Sweden
+* **T10: Robotics**, Alessandro Saffiotti, AASS Cognitive Robotic Systems Lab, School of Science and Technology, Orebro University, Sweden [Web](https://www.oru.se/english/employee/alessandro_saffiotti)
 
 * **T11: Scheduling and resource management**,Marco Maratea, Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi. University Genova, Italy. [Web](http://www.star.dist.unige.it/~marco/)
