@@ -16,6 +16,6 @@ Other countries are using artificial intelligence to help manage the crisis, inc
 
 The AI community has much to offer, and many AI researchers and practitioners stand ready to help public institutions that are in the front line of coping with the crisis, a​dds Prof. Gianluca Bontempi from the Université Libre de Bruxelles (Belgium), who co-leads CLAIRE's COVID-19 taskforce with Ms Girardi. -- ​Through CLAIRE, we can access and mobilise world-leading expertise across the full spectrum of AI, and we hope that this will make a difference.
 
-See press release. Here you can contact the [CLAIRE COVID-19 Taskforce](covid19@claire-ai.org)
+See press release. Here you can contact the [CLAIRE COVID-19 Taskforce](mailto:covid19@claire-ai.org)
 
 <p align="center"><a href="https://claire-ai.org"><img src="/assets/images/banner_claire.jpg" alt="CLAIRE" width ="90%"></a></p>
