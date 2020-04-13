@@ -16,12 +16,13 @@ author_profile: false
 
 
 
-<p align="center">CLAIRE is collecting information about multiple initiatives undertaken by the AI community to support the fight against COVID19.</p>
-
-<p align="center"><a href="/claire-news/">We are actively involved in some of these efforts</a>.For more information, see the <a href="https://claire.zulipchat.com/#narrow/stream/226112-covid-19">CLAIRE Zulip stream</a> on COVID19 (for CLAIRE supporters only, <a href="https://claire-ai.org/#share-and-sign">you can sign up here</a>) or contact <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.org</a>.</p>
+<p align="center">CLAIRE is collecting information about multiple initiatives undertaken by the AI community to support the fight against COVID19. <a href="/claire-news/">We are actively involved in some of these efforts</a>. For more information, see the <a href="https://claire.zulipchat.com/#narrow/stream/226112-covid-19">CLAIRE Zulip stream</a> on COVID19 (for CLAIRE supporters only, <a href="https://claire-ai.org/#share-and-sign">you can sign up here</a>) or contact <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.org</a>.</p>
 
 
-<p align="center"><b>We are continuously updating the information displayed in this page.</b></p><p align="center"><b>If you are aware of any other initiative not listed here, please let us know by filling this <a href="https://docs.google.com/forms/d/e/1FAIpQLScOvHHnwTfmzQ4yIztzWUhHBdY_zhkhQbIT-gwLXEke1U1xLg/viewform">form</a>.</b></p>
+<p align="center"><b>We are continuously updating the information displayed in this page. If you are aware of any other initiative not listed here, please let us know by filling this <a href="https://docs.google.com/forms/d/e/1FAIpQLScOvHHnwTfmzQ4yIztzWUhHBdY_zhkhQbIT-gwLXEke1U1xLg/viewform">form</a>.</b></p>
+
+
+<p align="center">Open in <a href="https://docs.google.com/spreadsheets/d/1ycMBDQWw0HRt5S0pK-G2fQZAy7u1MyjcYTrYIHrbJ3A/edit?usp=sharing">Google docs (read only)</a></p>
 
 <hr>
 <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT65xEQKqL5A8QG44U4t6O9krlA6hOVnmAGJrISUTso37M8dSR06hDZKCToEx1-8Tfo8v9CMobC7tHL/pubhtml?widget=true&amp;headers=false" width="80%" height="1000"></iframe></p>
