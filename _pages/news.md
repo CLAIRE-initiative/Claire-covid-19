@@ -8,5 +8,18 @@ header:
 layout: posts
 author_profile: false
 ---
-
 <p align="center"><a href="https://claire-ai.org"><img src="/assets/images/banner_claire.jpg" alt="CLAIRE" width ="1000"></a></p>
+
+## Selected links
+
+* [COVID-19 cases dashboard from Johns Hopkins University](https://coronavirus.jhu.edu/map.html)
+
+* [EU supported research and innvation on coronavirus](https://ec.europa.eu/info/research-and-innovation/research-area/health-research-and-innovation/coronavirus-research-and-innovation_en)
+
+* [EU European Research Corona Platform - H2020 calls deadlines updates](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/covid-19)
+
+
+<hr>
+## News
+
+[See news by keywords](/tags/)
