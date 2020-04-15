@@ -8,6 +8,8 @@ main:
     url: /claire-news/
   - title: "News"
     url:  news
+  - title: "Links"
+    url:  links
   - title: "About us"
     url: /about/
   #- title: "Sitemap"
