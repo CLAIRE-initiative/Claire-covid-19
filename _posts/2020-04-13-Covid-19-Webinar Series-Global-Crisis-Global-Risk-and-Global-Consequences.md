@@ -10,7 +10,11 @@ tags:
   - GCSP
   - data sharing
   - ethics
+  - image processing
+  - tracing
   - digital health
+  - policy making
+
 ---
 
 # The [Geneva Center for Securiy Policy](http://gcsp.ch), supporter of the CLAIRE Office Switzerland, is organizing the webinar Covid-19 Crisis: Global Crisis, Global Risk and Global Consequences

@@ -42,39 +42,39 @@ Contact email for all: <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.
 
 * **Prof. Gianluca Bontempi (co-Leader)**, CLAIRE Belgium (French community) NCP, Université Libre de Bruxelles, Computer Science Dept, Machine Learning Group. [Web](http://mlg.ulb.ac.be)
 
-* **Hans De Canck**, CLAIRE Belgium, Vrije Universiteit Brussel, AI Experience Center / AI for the Common Good initiative.
+* **Hans De Canck**, CLAIRE Office Belgium, Vrije Universiteit Brussel, AI Experience Center / AI for the Common Good initiative
 
 * **Ricardo Chavarriaga, PhD**, CLAIRE office Switzerland, Zurich University of Applied Sciences (ZHAW), Geneva Center for Security Policy (GCSP), IEEE Brain Initiative. [Web](http://ricardo.chavarriaga.me)
 
-* **Emanuela Girardi (co-Leader)**, Member of High-Level Expert Group on AI of the Italian Ministry of Economic Development, AIxiA, Pop AI.  
+* **Emanuela Girardi (co-Leader)**, Member of High-Level Expert Group on AI of the Italian Ministry of Economic Development, AIxiA, Pop AI
 
 * **Prof. Holger Hoos**, Universiteit Leiden, The Netherlands. [Web](http://ada.liacs.nl/hh)
 
-* **Iarla Kilbane-Dawe**, Parliament Hill Research Ltd, UK.
+* **Iarla Kilbane-Dawe**, Parliament Hill Research Ltd, UK
 
 <hr>
 # Topic coordinators
 
 <!--* **T0: Coordination, public relations, raise awareness, contacts**-->
-* **T1: Intensive care data analysis:** Tonio Ball, Head of Neuromedical AI Lab Freiburg, Germany 
+* **Intensive care data analysis:** Tonio Ball, Head of Neuromedical AI Lab Freiburg, Germany 
 [Web](https://www.tnt.uni-freiburg.de/)
 
-* **T2: Epidemiological data analysis:** Ann Nowe, Prof. Ann Nowé, AI  Lab, Vrije Universiteit Brussel, Belgium [Web](https://ai.vub.ac.be/team/ann-nowe/)
+* **Epidemiological data analysis:** Ann Nowe, Prof. Ann Nowé, AI  Lab, Vrije Universiteit Brussel, Belgium [Web](https://ai.vub.ac.be/team/ann-nowe/)
 
-* **T3: Mobility and monitoring data analysis:** Jose Sousa, Faculty of Medicine, Health and Life Sciences, Queen’s University Belfast [Web](http://www.qub.ac.uk/sites/core-technology-units/AdvancedInformatics/)
+* **Mobility and monitoring data analysis:** Jose Sousa, Faculty of Medicine, Health and Life Sciences, Queen’s University Belfast [Web](http://www.qub.ac.uk/sites/core-technology-units/AdvancedInformatics/)
 
-* **T4: Bioinformatics (protein and molecular data analysis)**, Davide Bacciu, Computational Intelligence and Machine Learning Group, Universita' di Pisa, Italy [Web](http://www.di.unipi.it/~bacciu)
+* **Bioinformatics (protein and molecular data analysis)**, Davide Bacciu, Computational Intelligence and Machine Learning Group, Universita' di Pisa, Italy [Web](http://www.di.unipi.it/~bacciu)
 
-* **T5: NLP (literature analysis+chatbots)**, TBD
+<!--* **T5: NLP (literature analysis+chatbots)**, TBD
 
-* **T6: E-health**, TBD
+* **T6: E-health**, TBD-->
 
-* **T7: Image analysis (CT scans)**, Marco Aldinucci, Computer Science Dept, University of  Torino, Italy. [Web](http://alpha.di.unito.it/marco-aldinucci/)
+* **Image analysis (CT scans)**, Marco Aldinucci, Computer Science Dept, University of  Torino, Italy. [Web](http://alpha.di.unito.it/marco-aldinucci/)
 
-* **T8: Social network monitoring (fake news)**, TBD
+<!--* **Social network monitoring (fake news)**, TBD
 
-* **T9: Smart manufacturing (3D printing)**, TBD
+* **Smart manufacturing (3D printing)**, TBD-->
 
-* **T10: Robotics**, Alessandro Saffiotti, AASS Cognitive Robotic Systems Lab, School of Science and Technology, Orebro University, Sweden [Web](https://www.oru.se/english/employee/alessandro_saffiotti)
+* **Robotics**, Alessandro Saffiotti, AASS Cognitive Robotic Systems Lab, School of Science and Technology, Orebro University, Sweden [Web](https://www.oru.se/english/employee/alessandro_saffiotti)
 
-* **T11: Scheduling and resource management**,Marco Maratea, Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi. University Genova, Italy. [Web](http://www.star.dist.unige.it/~marco/)
+* **Scheduling and resource management**,Marco Maratea, Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi. University Genova, Italy. [Web](http://www.star.dist.unige.it/~marco/)
