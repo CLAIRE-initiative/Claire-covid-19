@@ -2,7 +2,7 @@
 categories:
   - news
 tags:
-  - claire
+  - CLAIRE
   - covid19
   - 3Dprinting
   - Czech Republic

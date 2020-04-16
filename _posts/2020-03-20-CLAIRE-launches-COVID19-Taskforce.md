@@ -2,7 +2,8 @@
 categories:
   - news
 tags:
-  - claire
+  - CLAIRE
+  - AI
   - covid19
   - covid19-taskforce
 ---

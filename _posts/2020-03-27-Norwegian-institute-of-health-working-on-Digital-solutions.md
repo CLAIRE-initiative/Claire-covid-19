@@ -3,7 +3,7 @@ categories:
   - news
 tags:
   - covid19
-  - claire
+  - CLAIRE
   - apps
   - AI
   - Norway
