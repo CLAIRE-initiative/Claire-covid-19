@@ -2,7 +2,7 @@
 permalink: /claire-news/
 title: "CLAIRE Taskforce on COVID19 - CLAIRE Activities"
 layout: tag
-taxonomy: claire
+taxonomy: CLAIRE
 header:
   overlay_image: /assets/images/fusion-medical-animation-EAgGqOiDDMg-unsplash_flipped.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
