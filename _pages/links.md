@@ -22,6 +22,7 @@ author_profile: false
 * [IEEE](http://spectrum.ieee.org/static/covid19-ieee-resources)
 * [Cambrigde University Press](https://www.cambridge.org/core/browse-subjects/medicine/coronavirus-free-access-collection)
 * [WHO](http://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
+* [Publons](https://publons.com/publon/covid-19/?sort_by=date)
 
 ## EU Commission and International Organizations
 

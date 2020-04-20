@@ -5,7 +5,6 @@ tags:
   - CLAIRE
   - AI
   - covid19
-  - covid19-taskforce
 ---
 
 # Scientists across Europe offer assistance with using Artificial Intelligence to combat COVID-19
