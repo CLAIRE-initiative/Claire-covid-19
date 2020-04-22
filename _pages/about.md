@@ -71,6 +71,8 @@ Contact email for all: <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.
 
 * **Image analysis (CT scans)**, Marco Aldinucci, Computer Science Dept, University of  Torino, Italy. [Web](http://alpha.di.unito.it/marco-aldinucci/)
 
+* **Social dynamics and networks monitoring**, Manlio De Domenico, Head of Complex Multilayer Networks Lab FBK - Fondazione Bruno Kessler, Italy [Web](https://comunelab.fbk.eu/manlio/index.php)
+
 <!--* **Social network monitoring (fake news)**, TBD
 
 * **Smart manufacturing (3D printing)**, TBD-->

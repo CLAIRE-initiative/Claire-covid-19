@@ -27,9 +27,9 @@ author_profile: false
 
 * **<a href="#image">Image analysis (CT scans)</a>**
 
-<!--* **<a href="#socialnetwork">Social network monitoring (fake news)</a>**
+* **<a href="#socialdynamics">Social dynamics and networks monitoring</a>**
 
-* **<a href="#smartmanufacturing">Smart manufacturing (3D printing)</a>**-->
+<!--* **<a href="#smartmanufacturing">Smart manufacturing (3D printing)</a>**-->
 
 * **<a href="#robotics">Robotics</a>**
 
@@ -90,14 +90,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 **Institutions involved**:   
 **Contact**: Marco Aldinucci, Computer Science Dept, University of  Torino, Italy. [Web](http://alpha.di.unito.it/marco-aldinucci/)
 
-<!--## <a id="">Social network monitoring (fake news)</a>
+
+## <a id="socialdynamics">Social dynamics and networks monitoring</a>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 **Institutions involved**:   
-**Contact**: TBD
+**Contact**: Manlio De Domenico, Head of Complex Multilayer Networks Lab FBK - Fondazione Bruno Kessler [Web](https://comunelab.fbk.eu/manlio/index.php)
 
-## <a id="">Smart manufacturing (3D printing)</a>
+<!--## <a id="">Smart manufacturing (3D printing)</a>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
