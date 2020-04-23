@@ -5,7 +5,7 @@ This is the source for the CLAIRE COVID19 Taskforce
 The webpage is based on the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 
-## Instructions to update Topic projects
+## Instructions to update [topic projects webpage](https://covid19.claire-ai.org/claire-projects)
 
 * Sync to the latest version of the repository
 * Edit the following file with your updates. You can use either html or markdown to include links or images
@@ -17,4 +17,4 @@ The webpage is based on the [Minimal Mistakes Jekyll theme](https://mmistakes.gi
 
 
 ---
-Contact Ricardo Chavarriaga](mailto:office-switzerland@claire-ai.org); [CLAIRE Covid-19 Taskforce](covid19@claire-ai.org)
+Contact Ricardo Chavarriaga](office-switzerland@claire-ai.org); [CLAIRE Covid-19 Taskforce](covid19@claire-ai.org)
