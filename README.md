@@ -13,7 +13,7 @@ The webpage is based on the [Minimal Mistakes Jekyll theme](https://mmistakes.gi
 * If you want to include images, please add it to the following directory
     * [DIR_REPO]/assets/images/images_posts/
 * commit and push the changes
-* Changes will be  reflected in the [website](https://covid19.claire-ai.org/claire-projects) after about 5 minutes
+* Changes will be  reflected in the [website](https://covid19.claire-ai.org/claire-projects) after a few minutes
 
 
 ---
