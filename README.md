@@ -17,4 +17,4 @@ The webpage is based on the [Minimal Mistakes Jekyll theme](https://mmistakes.gi
 
 
 ---
-Contact Ricardo Chavarriaga](office-switzerland@claire-ai.org); [CLAIRE Covid-19 Taskforce](covid19@claire-ai.org)
+Contact [Ricardo Chavarriaga](office-switzerland@claire-ai.org); [CLAIRE Covid-19 Taskforce](covid19@claire-ai.org)
