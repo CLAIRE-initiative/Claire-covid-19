@@ -70,9 +70,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : vision_claire
 facebook:
-  username               :
+  username               : claire.initiative
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,10 +107,10 @@ author:
       url: "https://claire-ai.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/vision_claire"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/claire.initiative/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -129,10 +129,10 @@ footer:
       url: "https://claire-ai.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/vision_claire"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/claire.initiative/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
