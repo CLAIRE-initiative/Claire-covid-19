@@ -57,9 +57,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## <a id="mobility">Mobility and monitoring data analysis:</a>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The world as we know it has been challenged by the COVID-19 disease pandemics and like previous global events such as the great depression and the two world wars, it will change how we think, work and live. Herein we look at the use of AI technology and not only at the state level but also in our everyday livelihoods. It is noteworthy that the disease forced, in different sizes and times, to a world lockdown to prevent its progression as no vaccine or treatment exists. But more important it brought tracing solutions to the battle front with different approaches and dimensions as a way to control the progression of the pandemics. However, even considering that contact tracing will allow to inform and trace possible infectious contacts with a fundamental impact on lockdown decisions we think that additional levels of modelling would allow to know and create evidence of disease progression at the population level with a capability to forecast pressure and decision making on healthcare resources. Hence, where in this task we aim to explore AI self-supervised learning on self-reported symptoms and prescription data has a way to forecast disease progression and improve the contact tracing outcome and its impact on healthcare resources planning. We therefore join efforts as a team of volunteers from different locations and with different skills to tackle it.
 
-**Institutions involved**:   
+<!--**Institutions involved**:   -->
 **Contact**: Jose Sousa, Faculty of Medicine, Health and Life Sciences, Queen’s University Belfast [Web](http://www.qub.ac.uk/sites/core-technology-units/AdvancedInformatics/)
 
 ## <a id="bioinformatics">Bioinformatics (protein and molecular data analysis)</a>
