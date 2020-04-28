@@ -64,7 +64,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## <a id="bioinformatics">Bioinformatics (protein and molecular data analysis)</a>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The topic join forces from AI, clinical and life-sciences experts working on the analysis of complex and multi-sourced biomedical data integrating clinical evidence on COVID-19 with genomic and proteomic information, as well as molecular data. We are exploring data-driven AI methodologies and bioinformatics approaches covering network data analysis, machine learning and deep learning for graphs, predictive modelling, and feature selection of Omics data. Our primary goal is to support the community with the release of resources for
+-	characterizing the disease from its related structural information, including prediction of viral protein folding
+-	studying interactions between the virus and human hosts, including analysing protein-protein interaction data   
+-	filtering, retrieval, and generation of targeted drugs, leveraging molecular and well as proteomic information
+-	delivering predictive insights onto the genetic features of the virus.
+
+To enable these objectives, we are assembling a resource that fuses information from heterogeneous sources and different studies from the literature into a unique network-based representation, facilitating the use of relational and graph-based learning methods. We urge volunteers within all the relevant fields of AI and, even more importantly, domain experts, including, clinical specialists, immunologists, virologists, biologists, geneticists cheminformatics experts. 
 
 **Institutions involved**:   
 **Contact**: Davide Bacciu, Computational Intelligence and Machine Learning Group, Universita' di Pisa, Italy [Web](http://www.di.unipi.it/~bacciu)
