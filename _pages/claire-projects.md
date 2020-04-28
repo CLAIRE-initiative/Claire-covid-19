@@ -64,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## <a id="bioinformatics">Bioinformatics (protein and molecular data analysis)</a>
 
-The topic join forces from AI, clinical and life-sciences experts working on the analysis of complex and multi-sourced biomedical data integrating clinical evidence on COVID-19 with genomic and proteomic information, as well as molecular data. We are exploring data-driven AI methodologies and bioinformatics approaches covering network data analysis, machine learning and deep learning for graphs, predictive modelling, and feature selection of Omics data. Our primary goal is to support the community with the release of resources for
+The topic joins forces from AI, clinical and life-sciences experts working on the analysis of complex and multi-sourced biomedical data integrating clinical evidence on COVID-19 with genomic and proteomic information, as well as molecular data. We are exploring data-driven AI methodologies and bioinformatics approaches covering network data analysis, machine learning and deep learning for graphs, predictive modelling, and feature selection of Omics data. Our primary goal is to support the community with the release of resources for
 -	characterizing the disease from its related structural information, including prediction of viral protein folding
 -	studying interactions between the virus and human hosts, including analysing protein-protein interaction data   
 -	filtering, retrieval, and generation of targeted drugs, leveraging molecular and well as proteomic information
