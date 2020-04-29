@@ -120,7 +120,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## <a id="scheduling">Scheduling and resource management</a>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In the Covid-19 outbreak, one of the main challenge is to be able to assist patients in the most possible efficient way, but clearly having limited resources in terms of e.g. clinicians and beds in the Intensive Care Unit. This topic deals with planning and scheduling algorithms which are able to proficiently work also in this setting, for example by optimizing the most constrained of such resources. Given that also the time for producing a solution plan/schedule may be an issue, the tools built on top of these algorithms must be able to produce a usable, useful, and possibly explainable, solution in a short time in line with the need of the particular task.
 
 **Institutions involved**:   
 **Contact**: Marco Maratea, Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi. University Genova, Italy. [Web](http://www.star.dist.unige.it/~marco/)
