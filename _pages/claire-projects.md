@@ -25,7 +25,7 @@ author_profile: false
 
 * **<a href="#ehealth">E-health</a>**-->
 
-* **<a href="#image">Image analysis (CT scans)</a>**
+* **<a href="#image">Image analysis (CT scans, X-ray)</a>**
 
 * **<a href="#socialdynamics">Social dynamics and networks monitoring</a>**
 
@@ -96,7 +96,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 The group has two main goals: 1) to distil the current state of the art of methodologies and data sets for AI-assisted diagnosis of Covid-19 by way of imaging (e.g. TC Scan and X-ray) aiming at making diagnosis faster, cheaper and more manageable in the hospital processes (e.g. using low-resolution images). 2) to contribute to improving multidisciplinary knowledge by cross-breeding knowledge in computer science and radiology aiming at creating better, more informative reference datasets, together with data-gathering strategies, beyond the current outbreak. 
 
-The group builds on top of currently active EU-funded projects, such as 15M€ DeepHealth (https://deephealth-project.eu ) and 4.5M€ HPC4AI (https://hpc4ai.unito.it ). 
+The group builds on top of currently active EU-funded projects, such as 15M€ [DeepHealth](http://deephealth-project.eu) and 4.5M€ [HPC4AI](http://hpc4ai.unito.it). 
 
 <!--**Institutions involved**:   -->
 **Contact**: <br>
