@@ -13,7 +13,7 @@ author_profile: false
 <hr>
 # Topics
 
-* **<a href="#ICU">Intensive care data analysis</a>**
+<!--* **<a href="#ICU">Intensive care data analysis</a>**-->
 
 * **<a href="#epidemiology">Epidemiological data analysis</a>**
 
@@ -38,23 +38,25 @@ author_profile: false
 
 ---
 
-## <a id="ICU">Intensive care data analysis</a>
+<!--## <a id="ICU">Intensive care data analysis</a>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<!--**Institutions involved**:   -->
+**Institutions involved**:
 **Contact**<br>
 Tonio Ball, Head of Neuromedical AI Lab Freiburg, Germany 
 [Web](https://www.tnt.uni-freiburg.de/)
+-->
 
 ---
 ## <a id="epidemiology">Epidemiological data analysis</a>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<!--Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<!--**Institutions involved**:   -->
+**Institutions involved**:-->
 **Contact**:<br>
 Ann Nowé, AI  Lab, Vrije Universiteit Brussel, Belgium [Web](https://ai.vub.ac.be/team/ann-nowe/)
+
 
 ## <a id="mobility">Mobility and monitoring data analysis:</a>
 
@@ -102,12 +104,13 @@ The group builds on top of currently active EU-funded projects, such as 15M€ [
 **Contact**: <br>
 Marco Aldinucci, Computer Science Dept, University of  Torino, Italy. [Web](http://alpha.di.unito.it/marco-aldinucci/)
 
-
 ## <a id="socialdynamics">Social dynamics and networks monitoring</a>
 
+<!--
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<!--**Institutions involved**:   -->
+**Institutions involved**:   -->
+
 **Contact**: <br>
 Manlio De Domenico, Head of Complex Multilayer Networks Lab FBK - Fondazione Bruno Kessler [Web](https://comunelab.fbk.eu/manlio/index.php)
 
@@ -120,11 +123,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## <a id="robotics">Robotics</a>
 
+<!--
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<!--**Institutions involved**:   -->
+**Institutions involved**:   -->
 **Contact**: <br>
 Alessandro Saffiotti, AASS Cognitive Robotic Systems Lab, School of Science and Technology, Orebro University, Sweden [Web](https://www.oru.se/english/employee/alessandro_saffiotti)
+
 
 ## <a id="scheduling">Scheduling and resource management</a>
 
