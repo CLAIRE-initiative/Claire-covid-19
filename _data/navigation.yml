@@ -4,7 +4,9 @@ main:
 #    url: https://claire-ai.org/
   - title: "AI Initiatives against COVID19"
     url: /initiatives/
-  - title: "CLAIRE efforts"
+  - title: "Covid19 Topic Groups"
+    url: /claire-projects/
+  - title: "Claire news"
     url: /claire-news/
   - title: "News"
     url:  news

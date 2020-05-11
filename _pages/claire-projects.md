@@ -11,7 +11,7 @@ author_profile: false
 <p align="center"><a href="https://claire-ai.org"><img src="/assets/images/banner_claire.jpg" alt="CLAIRE" width ="1000"></a></p>
 
 <hr>
-# Topics
+# CLAIRE Covid19 Topic groups
 
 <!--* **<a href="#ICU">Intensive care data analysis</a>**-->
 
@@ -35,6 +35,9 @@ author_profile: false
 
 * **<a href="#scheduling">Scheduling and resource management</a>**
 
+---
+
+<a href="/claire-news/">Click here to read about other activities of the CLAIRE network </a>
 
 ---
 

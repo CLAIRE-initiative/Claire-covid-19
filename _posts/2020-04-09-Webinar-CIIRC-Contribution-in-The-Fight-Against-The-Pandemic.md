@@ -4,7 +4,7 @@ categories:
 tags:
   - CLAIRE
   - covid19
-  - 3Dprinting
+  - 3D printing
   - Czech Republic
   - webinar
   - AI4EU
