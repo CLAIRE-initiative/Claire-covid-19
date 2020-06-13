@@ -11,7 +11,11 @@ author_profile: false
 
 <p align="center"><iframe title="Covid-19 Initiatives" aria-label="World Symbol map" src="//datawrapper.dwcdn.net/MGVbG/4/" scrolling="no" frameborder="0" style="border: none;" width="60%" height="400"></iframe></p>
 
-<p align="center"><b>Select type of initative: <a href="#Datasets">Datasets</a> | <a href="#Funding">Funding</a> | <a href="#Hackathons">Hackathons/ Challenges / Webinars</a> | <a href="#Other">Other Initiatives</a></b></p>
+
+<p align="center"><b>Select type of initative: <a href="#Datasets">Datasets</a> | <a href="#Funding">Funding</a> | <a href="#Other">Other Initiatives</a></b></p>
+
+
+<!--<p align="center"><b>Select type of initative: <a href="#Datasets">Datasets</a> | <a href="#Funding">Funding</a> | <a href="#Hackathons">Hackathons/ Challenges / Webinars</a> | <a href="#Other">Other Initiatives</a></b></p>--
 
 
 <!--<p align="center">CLAIRE is collecting information about multiple initiatives undertaken by the AI community to support the fight against COVID19. <a href="/claire-news/">We are actively involved in some of these efforts</a>. For more information, see the <a href="https://claire.zulipchat.com/#narrow/stream/226112-covid-19">CLAIRE Zulip stream</a> on COVID19 (for CLAIRE supporters only, <a href="https://claire-ai.org/#share-and-sign">you can sign up here</a>) or contact <a href="mailto:covid19@claire-ai.org">covid19@claire-ai.org</a>.</p>-->
@@ -42,11 +46,12 @@ author_profile: false
 <p align="center"><b><a href="/initiatives/">Back to top</a>.</b></p>
 
 <!-- Hackathons -->
+<!--
 <hr>
 ## <a id="Hackathons">Hackathons/ Challenges / Webinars</a>  [<a href="/initiatives/">Back to top</a>]
 <p align="center"><a href="https://claire-ai.org"><img src="/assets/images/banner_claire.jpg" alt="CLAIRE" width ="1000"></a></p>
 
-<p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAYVvrFj6DHQfmpZnaNb5dhaYuZpRVKryGuM3yCrczpcxs4bH8Da3D9ywU09GytJSMXUjBqQLQYX5P/pubhtml?widget=true&amp;headers=false" width="80%" height="1000"></iframe></p>
+<p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAYVvrFj6DHQfmpZnaNb5dhaYuZpRVKryGuM3yCrczpcxs4bH8Da3D9ywU09GytJSMXUjBqQLQYX5P/pubhtml?widget=true&amp;headers=false" width="80%" height="1000"></iframe></p>-->
 
 <!-- Others -->
 <hr>
