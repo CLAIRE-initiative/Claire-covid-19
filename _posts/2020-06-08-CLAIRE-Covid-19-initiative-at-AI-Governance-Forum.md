@@ -8,6 +8,7 @@ tags:
   - governance
   - webinar
   - ethics
+  - European Commission
   - bioinformatics
   - contact tracing
   - global health

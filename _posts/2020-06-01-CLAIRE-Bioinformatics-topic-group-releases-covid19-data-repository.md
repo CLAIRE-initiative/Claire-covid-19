@@ -1,4 +1,3 @@
-
 ---
 categories:
   - news
@@ -8,6 +7,7 @@ tags:
   - AI
   - bioinformatics
   - drug development
+  - datasets
 ---
 
 # CLAIRE’s top AI and bioinformatics researchers have assembled the first comprehensive data resource to help scientists and medics worldwide repurpose existing drugs to fight COVID-19. 
