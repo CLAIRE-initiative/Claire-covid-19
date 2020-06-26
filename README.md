@@ -1,5 +1,8 @@
 # [CLAIRE COVID19 Taskforce Webpage](https://covid19.claire-ai.org)
 
+Note: 
+This site has been deprecated and is replaced by a WordPress COVID19 site available at https://covid19.claire-ai.org/
+
 This is the source for the CLAIRE COVID19 Taskforce
 
 The webpage is based on the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
